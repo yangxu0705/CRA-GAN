@@ -1,3 +1,3 @@
-# IRA-GAN
-This project implements an innovative generative design method for lightweight aluminum Industrial Robotic Arms using Generative Adversarial Networks (IRA-GAN). Its goal is to enhance the engineering design process by providing designers with a broader range of creative ideas and generating innovative design solutions that exhibit superior mechanical properties.
+# CRA-GAN
+This project implements an innovative generative design method for lightweight aluminum Construction Robotic Arms using Generative Adversarial Networks (CRA-GAN). Its goal is to enhance the engineering design process by providing designers with a broader range of creative ideas and generating innovative design solutions that exhibit superior mechanical properties.
 The dataset is one of the core resources of the project, and the enhanced version of the dataset can be downloaded using the link below: https://drive.google.com/drive/folders/1Lc3agGxoJD3kFl-prrXrhcG4USYIUiVJ?usp=drive_link.
